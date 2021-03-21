@@ -1,0 +1,184 @@
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.CtlCliente.resources
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.principal.resources
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.Properties.Resources.resources
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.csproj.GenerateResource.cache
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\Comercio.exe.config
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\Comercio.exe
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\Comercio.pdb
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\EntityFramework.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\MetroFramework.Design.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\MetroFramework.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\System.Data.SQLite.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\TextModificado.dll
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\EntityFramework.xml
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\System.Data.SQLite.xml
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ferre\Desktop\Comercio\Comercio\bin\Debug\TextModificado.pdb
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.csproj.CopyComplete
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.exe
+C:\Users\ferre\Desktop\Comercio\Comercio\obj\Debug\Comercio.pdb
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\Comercio.exe.config
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\Comercio.exe
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\Comercio.pdb
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\EntityFramework.dll
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\EntityFramework.SqlServer.dll
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\MetroFramework.Design.dll
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\MetroFramework.dll
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\MetroFramework.Fonts.dll
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.dll
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\EntityFramework.xml
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\EntityFramework.SqlServer.xml
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.xml
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.dll.config
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\TextModificado.pdb
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.csprojAssemblyReference.cache
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.principal.resources
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.Properties.Resources.resources
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.csproj.GenerateResource.cache
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.csproj.CoreCompileInputs.cache
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.csproj.CopyComplete
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.exe
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.pdb
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.NaoUsadoCtlaReceber.resources
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.NaoUsadoCtlCliente.resources
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmCliente.resources
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmAgendarNovo.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\Comercio.exe.config
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\Comercio.exe
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\Comercio.pdb
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\EntityFramework.dll
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\MetroFramework.Design.dll
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\MetroFramework.dll
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.dll
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\EntityFramework.xml
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.xml
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\bin\Debug\TextModificado.pdb
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.csprojAssemblyReference.cache
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmAgendarNovo.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmCliente.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.NaoUsadoCtlaReceber.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.NaoUsadoCtlCliente.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.principal.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.Properties.Resources.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.csproj.GenerateResource.cache
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.csproj.CopyComplete
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.exe
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.pdb
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmRelatorioAgendamento.resources
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmRelatorioCliente.resources
+H:\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmRegistrar.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmRegistrar.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmRelatorioAgendamento.resources
+C:\Users\ferre\Dropbox\Sistema de negocios para vender\Comercio\Comercio\obj\Debug\Comercio.frmRelatorioCliente.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\Comercio.exe.config
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\Comercio.exe
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\Comercio.pdb
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\EntityFramework.dll
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\EntityFramework.SqlServer.dll
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\MetroFramework.Design.dll
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\MetroFramework.dll
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\MetroFramework.Fonts.dll
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.dll
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\EntityFramework.xml
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\EntityFramework.SqlServer.xml
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.xml
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.dll.config
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\TextModificado.pdb
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.csprojAssemblyReference.cache
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmAgendarNovo.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmCliente.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmRegistrar.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmRelatorioAgendamento.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmRelatorioCliente.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.NaoUsadoCtlaReceber.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.NaoUsadoCtlCliente.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.principal.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.Properties.Resources.resources
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.csproj.GenerateResource.cache
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.csproj.CoreCompileInputs.cache
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.csproj.CopyComplete
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.exe
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.pdb
+H:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmConfiguracoes.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\Comercio.exe.config
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\Comercio.exe
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\Comercio.pdb
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\EntityFramework.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\EntityFramework.SqlServer.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\MetroFramework.Design.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\MetroFramework.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\MetroFramework.Fonts.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\EntityFramework.xml
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\EntityFramework.SqlServer.xml
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.xml
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\System.Data.SQLite.dll.config
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\bin\Debug\TextModificado.pdb
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.csprojAssemblyReference.cache
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmAgendarNovo.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmCliente.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmConfiguracoes.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmRegistrar.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmRelatorioAgendamento.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.frmRelatorioCliente.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.NaoUsadoCtlaReceber.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.NaoUsadoCtlCliente.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.principal.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.Properties.Resources.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.csproj.GenerateResource.cache
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.csproj.CoreCompileInputs.cache
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.csproj.CopyComplete
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.exe
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Comercio\obj\Debug\Comercio.pdb
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\Comercio.exe.config
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\Comercio.exe
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\Comercio.pdb
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\EntityFramework.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\EntityFramework.SqlServer.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\MetroFramework.Design.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\MetroFramework.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\MetroFramework.Fonts.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\System.Data.SQLite.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\EntityFramework.xml
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\EntityFramework.SqlServer.xml
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\System.Data.SQLite.xml
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\System.Data.SQLite.dll.config
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\bin\Debug\TextModificado.pdb
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.csprojAssemblyReference.cache
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.frmAgendarNovo.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.frmCliente.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.frmConfiguracoes.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.frmRegistrar.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.frmRelatorioAgendamento.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.frmRelatorioCliente.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.NaoUsadoCtlaReceber.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.NaoUsadoCtlCliente.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.principal.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.Properties.Resources.resources
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.csproj.GenerateResource.cache
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.csproj.CoreCompileInputs.cache
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.csproj.CopyComplete
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.exe
+G:\Dropbox\Sistema de negocios para vender\Salão - agendamento [Concluido]\Cor Branca\Comercio\obj\Debug\Comercio.pdb
