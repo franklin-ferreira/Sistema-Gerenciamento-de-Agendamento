@@ -1,2 +1,2 @@
 # Agendamento
- C#,Visual studio,SQLIte
+ C#,Visual studio,SQL
